@@ -8,4 +8,5 @@ Stop: Pauses the timer.
 Reset: Resets the timer back to zero.
 Simple design for quick and easy use! Perfect for timing activities or tasks. 
 
-#Screenshot
+# Screenshot
+<img src="https://github.com/user-attachments/assets/a976ff59-f75b-4554-b3d2-fcfb2bee5e4c" width="500" height="250" alt="Stopwatch Screenshot">
