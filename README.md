@@ -1,4 +1,6 @@
-Stop-Watch ⏱
+Stop-Watch ⏱ 
+
+
 A minimal stopwatch app featuring Start, Stop, and Reset buttons. Built with HTML, CSS, and JavaScript.
 
 Start: Begins counting time from zero.
